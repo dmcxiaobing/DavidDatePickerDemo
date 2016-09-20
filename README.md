@@ -2,11 +2,17 @@
 【Android】时间选择器，选择日期DatePicker 简单详解demo及教程
 
 作者：程序员小冰，GitHub主页：https://github.com/QQ986945193 
+
 新浪微博：http://weibo.com/mcxiaobing 
+
 首先给大家看一下我们今天这个最终实现的效果图： 
+
 ![这里写图片描述](http://img.blog.csdn.net/20160915231122881)
+
 这个比较简单，具体效果UI图以及时间显示样式，大家可以自己修改。
+
 总体来说，这个效果实现起来还是比较简单的，我相信你能够移植到自己的项目中。
+
 布局比较简单，就有一个button以及textview。所以我就先放java实现代码吧：
 
 ```
