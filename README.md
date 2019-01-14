@@ -9,7 +9,7 @@
 
 这个是安卓4.x系统是这个样式的。滚动那是手动选择日期的。其他系统是另一种效果。
 
-![这里写图片描述](http://img.blog.csdn.net/20160915231122881)
+![这里写图片描述](http://plblqapuw.bkt.clouddn.com/DavidDatePickerDemo.gif)
 
 这个比较简单，具体效果UI图以及时间显示样式，大家可以自己修改。
 
