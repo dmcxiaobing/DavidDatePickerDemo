@@ -128,7 +128,7 @@ xml布局文件代码如下：
 
 当然如果我的项目帮到了你，欢迎进行打赏，请作者喝杯茶。谢谢支持。
 
-![支付宝](http://plblqapuw.bkt.clouddn.com/alipay.jpg =200x300)
+![支付宝](http://plblqapuw.bkt.clouddn.com/alipay_low.jpg)
 
-![微信](http://plblqapuw.bkt.clouddn.com/wechat.png =200x300)
+![微信](http://plblqapuw.bkt.clouddn.com/wechat_low.jpg)
 
