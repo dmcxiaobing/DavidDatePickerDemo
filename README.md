@@ -9,7 +9,7 @@
 
 这个是安卓4.x系统是这个样式的。滚动那是手动选择日期的。其他系统是另一种效果。
 
-![这里写图片描述](http://plblqapuw.bkt.clouddn.com/DavidDatePickerDemo.gif)
+![这里写图片描述](https://mcxiaobing.gitee.io/blog/img/github/DavidDatePickerDemo/20160915231122881.gif)
 
 这个比较简单，具体效果UI图以及时间显示样式，大家可以自己修改。
 
@@ -128,7 +128,7 @@ xml布局文件代码如下：
 
 当然如果我的项目帮到了你，欢迎进行打赏，请作者喝杯茶。谢谢支持。
 
-![支付宝](http://plblqapuw.bkt.clouddn.com/alipay_low.jpg)
+![支付宝](https://mcxiaobing.gitee.io/blog/img/github/pay/zhifubao.png)
 
-![微信](http://plblqapuw.bkt.clouddn.com/wechat_low.jpg)
+![微信](https://mcxiaobing.gitee.io/blog/img/github/pay/weixin.png)
 
